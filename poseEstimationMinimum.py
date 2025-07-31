@@ -1,3 +1,4 @@
+
 import time
 import cv2
 import mediapipe as mp
@@ -33,3 +34,4 @@ while True:
 
     cv2.imshow("Image",img)
     cv2.waitKey(10)
+
